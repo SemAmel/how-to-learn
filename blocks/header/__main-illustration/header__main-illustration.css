@@ -6,6 +6,6 @@
   height: 608px;
   background-size: 100%;
   background-repeat: no-repeat;
-  background-image: url(/images/header-image.png);
+  background-image: url(../../../images/header-image.png);
   z-index: auto;
 }
